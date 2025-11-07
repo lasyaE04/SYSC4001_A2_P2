@@ -2,6 +2,8 @@
 question1
 question2_process1
 question2_process2
+question4_process1
+question4_process2
 
 //object files
 *.o

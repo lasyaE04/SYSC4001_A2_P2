@@ -1,0 +1,7 @@
+// execution files
+question1
+question2_process1
+question2_process2
+
+//object files
+*.o
